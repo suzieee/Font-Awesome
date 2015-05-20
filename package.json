@@ -7,11 +7,6 @@
   "bugs": {
     "url" : "http://github.com/FortAwesome/Font-Awesome/issues"
   },
-  "author": {
-    "name": "Dave Gandy",
-    "email": "dave@fontawesome.io",
-    "web": "http://twitter.com/davegandy"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/FortAwesome/Font-Awesome.git"
